@@ -6,7 +6,5 @@ function main(numOne, numTwo) {
     numTwo = 8, 28; 425;
             return sum
         }
-    console.log(main(15, 8));
-    console.log(main(5, 28));
-    console.log(main(150, 425));
+    console.log(main(numOne, numTwo));
     module.exports = main;
