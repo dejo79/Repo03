@@ -3,8 +3,8 @@ function main(numOne, numTwo) {
     var numTwo;
     var sum = numOne * numTwo;
     numOne = 15, 25, 425;
-    numTwo = 3, 8; 10;
-            return sum
+    numTwo = 3, 8, 10;
+            return sum;
         }
     console.log(main(numOne, numTwo));
     module.exports = main;
