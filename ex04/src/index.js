@@ -1,7 +1,7 @@
 function main() {
 var x = 10;
-var y = 10;
-var x = y;
+var y = x;
+
     return [x, y];
 }
    console.log(main());
